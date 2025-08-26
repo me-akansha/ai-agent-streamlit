@@ -1,0 +1,5 @@
+Insurance benefits:
+- Coverage: medical expenses up to the sum insured.
+- Premium: periodic payment to keep policy active.
+- Claim process: notify insurer -> submit claim form + bills -> insurer processes and settles.
+- Types: health, life, accidental; coverage and exclusions vary by policy.

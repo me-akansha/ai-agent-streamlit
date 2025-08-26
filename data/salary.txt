@@ -1,0 +1,5 @@
+Salary structure:
+- Monthly salary = base pay + HRA + allowances.
+- Annual salary (gross) = monthly salary × 12.
+- Deductions: PF (employee), professional tax, income tax.
+- CTC includes gross salary + employer contributions.
